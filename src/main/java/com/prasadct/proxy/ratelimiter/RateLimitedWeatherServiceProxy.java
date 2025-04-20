@@ -4,6 +4,7 @@ import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.Map;
 
+// Proxy
 public class RateLimitedWeatherServiceProxy implements WeatherService {
     private final WeatherService realWeatherService;
     private final int maxRequestsPerMinute;

@@ -1,5 +1,6 @@
 package com.prasadct.proxy.ratelimiter;
 
+// Client code
 public class WeatherApp {
     public static void main(String[] args) {
         // Create the real service
