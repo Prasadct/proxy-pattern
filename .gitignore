@@ -1,0 +1,48 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+target/
+
+# Maven
+log/
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+!**/src/main/**/.gitkeep
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+.env
